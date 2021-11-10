@@ -1,5 +1,5 @@
 ## Welcome to GitCore Software
-![1d9e66cb-0bb9-41f7-b578-3b73dc420139_200x200-1-150x150.png](https://github.com/helix2301/website/blob/main/1d9e66cb-0bb9-41f7-b578-3b73dc420139_200x200-1-150x150.png)
+![](https://github.com/helix2301/website/blob/main/1d9e66cb-0bb9-41f7-b578-3b73dc420139_200x200-1-150x150.png)
 
 ```markdown
 
@@ -14,7 +14,7 @@ When I am not working you will find me spending all the time I can with my wife 
 ```
 ### Repository
 
-Please check out my entire [@GitHub Repository](https://github.com/helix2301).
+Please check out my entire [GitHub Repository](https://github.com/helix2301).
 
 ### Contact Me
 
