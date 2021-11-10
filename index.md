@@ -8,7 +8,8 @@ All my software is free under Apache Open License use it just let people know wh
 All I ask for is your support.
 I support all open source projects, including Python and Linux which are my favorites.
 I always strives to make the best software.
-I am so passionate about software that I am always developing new software, features or messing with a new API. 
+I am so passionate about software.
+I am always developing new software, features or messing with a new API. 
 When I am not working you will find me spending all the time I can with my wife and two kids.
 
 ```
