@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/helix2301/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome to GitCore Software
+![Image](https://github.com/helix2301/website/blob/main/1d9e66cb-0bb9-41f7-b578-3b73dc420139_200x200-1-150x150.png)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+My name is Brandon. The goal with GitCore Software is to giveaway great software for free. 
+All my software is free under Apache Open License use it just let people know where you got it.
+All I ask for is your support.
+I support all open source projects, including Python and Linux which are my favorites.
+I always strives to make the best software.
+I am so passionate about software that I am always developing new software, features or messing with a new API. 
 
-- Bulleted
-- List
+Like I said my software is free I just ask for your support by [https://www.buymeacoffee.com/helix2301](buying me a coffee).
 
-1. Numbered
-2. List
+When I am not working you will find me spending all the time I can with my wife and two kids.
 
-**Bold** and _Italic_ and `Code` text
+For more information please
+Reach out to me on [@Twitter](https://twitter.com/kb3yua) or by [email](mailto:brandon@gitcore.com)
 
-[Link](url) and ![Image](src)
 ```
+###Repository
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helix2301/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please check out my entire [@GitHub Repository](https://github.com/helix2301).
