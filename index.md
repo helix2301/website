@@ -1,5 +1,5 @@
 ## Welcome to GitCore Software
-![Image](https://github.com/helix2301/website/blob/main/1d9e66cb-0bb9-41f7-b578-3b73dc420139_200x200-1-150x150.png)
+![1d9e66cb-0bb9-41f7-b578-3b73dc420139_200x200-1-150x150.png](https://github.com/helix2301/website/blob/main/1d9e66cb-0bb9-41f7-b578-3b73dc420139_200x200-1-150x150.png)
 
 ```markdown
 
@@ -14,10 +14,12 @@ Like I said my software is free I just ask for your support by [https://www.buym
 
 When I am not working you will find me spending all the time I can with my wife and two kids.
 
-For more information please
-Reach out to me on [@Twitter](https://twitter.com/kb3yua) or by [email](mailto:brandon@gitcore.com)
-
 ```
-###Repository
+### Repository
 
 Please check out my entire [@GitHub Repository](https://github.com/helix2301).
+
+### Contact Me
+
+For more information please
+Reach out to me on [@Twitter](https://twitter.com/kb3yua) or by [email](mailto:brandon@gitcore.com)
