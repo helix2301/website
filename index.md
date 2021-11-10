@@ -9,9 +9,6 @@ All I ask for is your support.
 I support all open source projects, including Python and Linux which are my favorites.
 I always strives to make the best software.
 I am so passionate about software that I am always developing new software, features or messing with a new API. 
-
-Like I said my software is free I just ask for your support by [https://www.buymeacoffee.com/helix2301](buying me a coffee).
-
 When I am not working you will find me spending all the time I can with my wife and two kids.
 
 ```
@@ -23,3 +20,7 @@ Please check out my entire [@GitHub Repository](https://github.com/helix2301).
 
 For more information please
 Reach out to me on [@Twitter](https://twitter.com/kb3yua) or by [email](mailto:brandon@gitcore.com)
+
+### Support Me
+
+Like I said my software is free I just ask for your support by [Buy Me A Coffee](https://www.buymeacoffee.com/helix2301).
