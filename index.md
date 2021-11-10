@@ -24,4 +24,4 @@ Reach out to me on [@Twitter](https://twitter.com/kb3yua) or by [email](mailto:b
 
 ### Support Me
 
-Like I said my software is free I just ask for your support by [Buy Me A Coffee](https://www.buymeacoffee.com/helix2301).
+Like I said my software is free I just ask for your support by [Supporting Me On Github](https://github.com/sponsors/helix2301).
